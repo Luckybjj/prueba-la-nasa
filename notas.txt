@@ -1,0 +1,11 @@
+npm init -y
+npm install express --save
+npm install --save express-fileupload
+npm i --save body-parser
+npm install nodemailer
+npm install pg
+npm install --save express-handlebars
+npm install --save bootstrap
+npm install jsonwebtoken
+
+
