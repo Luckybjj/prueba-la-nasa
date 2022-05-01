@@ -1,7 +1,7 @@
 # prueba-la-nasa
 Desafío Latam Prueba La NASA
 
-Tecnologías que puedes utilizar en esta prueba:
+Tecnologías utilizadas en esta prueba:
 
 ❏ Express
 
